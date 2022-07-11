@@ -1,0 +1,8 @@
+{
+  "name": "lrs_driver_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "6ce28b40"
+}

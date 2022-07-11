@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "lrs_driver_app",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
